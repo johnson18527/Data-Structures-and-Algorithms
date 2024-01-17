@@ -31,6 +31,8 @@
 ## Binary Search
 - [235. Lowest Common Ancestor of a Binary Search Tree (難度Mediun)](https://github.com/johnson18527/Data-Structures-and-Algorithms/blob/main/%E9%A1%8C%E7%9B%AE/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)
 ## Trees
+- [102. Binary Tree Level Order Traversal (難度Mediun)](https://github.com/johnson18527/Data-Structures-and-Algorithms/blob/main/%E9%A1%8C%E7%9B%AE/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)
+- [199. Binary Tree Right Side View  (難度Mediun)](https://github.com/johnson18527/Data-Structures-and-Algorithms/blob/main/%E9%A1%8C%E7%9B%AE/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)
 - [226. Invert Binary Tree (難度Easy)](https://github.com/johnson18527/Data-Structures-and-Algorithms/blob/main/%E9%A1%8C%E7%9B%AE/226.%20Invert%20Binary%20Tree.md)
 - [199. Binary Tree Right Side View (難度Mediun)]()
 -  [1448. Count Good Nodes in Binary Tree (難度Mediun)](https://github.com/johnson18527/Data-Structures-and-Algorithms/blob/main/%E9%A1%8C%E7%9B%AE/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.md)
