@@ -36,6 +36,10 @@
 - [226. Invert Binary Tree (難度Easy)](https://github.com/johnson18527/Data-Structures-and-Algorithms/blob/main/%E9%A1%8C%E7%9B%AE/226.%20Invert%20Binary%20Tree.md)
 - [199. Binary Tree Right Side View (難度Mediun)]()
 -  [1448. Count Good Nodes in Binary Tree (難度Mediun)](https://github.com/johnson18527/Data-Structures-and-Algorithms/blob/main/%E9%A1%8C%E7%9B%AE/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.md)
+
+-  [98. Validate Binary Search Tree (難度Mediun)]()
+
+
 ## Tries
 
 ## Heap / Priority Queue
